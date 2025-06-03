@@ -1,6 +1,7 @@
 # PushOver - A 2D Platformer Demo
 
-This repository showcases **PushOver**, a 2D action platform game developed as a university course project. Play as a monk whose world is overrun by fiery zombies. Your mission: push these explosive enemies into environmental hazards to protect your realm, all while avoiding contact with them and dangerous spikes!
+This repository showcases **PushOver**, a 2D action platform game developed as a university course project. 
+Play as a monk whose world is overrun by fiery zombies. Your mission: push these explosive enemies into environmental hazards to protect your realm, all while avoiding contact with them and dangerous spikes!
 
 ---
 
