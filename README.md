@@ -8,7 +8,7 @@ Play as a monk whose world is overrun by fiery zombies. Your mission: push these
 
 ### Play the Demo!
 
-🎮 <a href="[https://barsimo.itch.io/pushover]" target="_blank" rel="noopener noreferrer">Click here to play the demo on Itch.io!</a>
+🎮 <a href="https://barsimo.itch.io/pushover" target="_blank" rel="noopener noreferrer">Click here to play the demo on Itch.io!</a>
 
 ---
 
