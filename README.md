@@ -1,8 +1,9 @@
 PushOver - A 2D Platformer Demo
-This repository showcases PushOver, a 2D action platform game developed as a university course project. Play as a monk whose world is overrun by fiery zombies. Your mission: push these explosive enemies into hazards to protect your realm, all while avoiding contact with them and dangerous spikes!
+This repository showcases PushOver, a 2D action platform game developed as a university course project. Play as a monk whose world is overrun by fiery zombies. Your mission: push these explosive enemies into environmental hazards to protect your realm, all while avoiding contact with them and dangerous spikes!
 
 Play the Demo!
 🎮 Click here to play the demo on Itch.io!
+(Don't forget to replace this with your actual Itch.io link before you publish!)
 
 Features
 Core Platforming Gameplay: Navigate dynamic levels with responsive character movement including running and jumping.
@@ -17,5 +18,3 @@ Credits
 Art Assets: [e.g., "Provided by university course materials," or "Sourced from [specific asset pack/artist name]"]
 Sound Effects: [e.g., "Obtained from [specific sound library/artist name]"]
 Music: [e.g., "Composed by [artist name]," or "From [specific music library]"]
-License
-This project is for demonstration purposes only. All rights reserved.
